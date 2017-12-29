@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name></name>
+<comment></comment>
+<images>
+  <image file='images/face_000159.jpg'>
+    <box top='234' left='214' width='180' height='180'>
+      <part name='Leye1' x='365' y='290'/>
+      <part name='Leye2' x='334' y='281'/>
+      <part name='Reye1' x='256' y='263'/>
+      <part name='Reye2' x='287' y='270'/>
+      <part name='un' x='305' y='334'/>
+    </box>
+    <box top='197' left='197' width='197' height='197'>
+      <part name='Leye1' x='365' y='290'/>
+      <part name='Leye2' x='334' y='281'/>
+      <part name='Reye1' x='256' y='263'/>
+      <part name='Reye2' x='287' y='270'/>
+      <part name='un' x='305' y='334'/>
+    </box>
+  </image>
+  <image file='images/face_000205.jpg'>
+    <box top='178' left='178' width='150' height='150'>
+      <part name='Leye1' x='294' y='206'/>
+      <part name='Leye2' x='268' y='212'/>
+      <part name='Reye1' x='210' y='225'/>
+      <part name='Reye2' x='235' y='220'/>
+      <part name='un' x='264' y='260'/>
+    </box>
+    <box top='163' left='163' width='164' height='164'>
+      <part name='Leye1' x='294' y='206'/>
+      <part name='Leye2' x='268' y='212'/>
+      <part name='Reye1' x='210' y='225'/>
+      <part name='Reye2' x='235' y='220'/>
+      <part name='un' x='264' y='260'/>
+    </box>
+  </image>
+  <image file='images/face_000395.jpg'>
+    <box top='251' left='251' width='259' height='259'>
+      <part name='Leye1' x='448' y='310'/>
+      <part name='Leye2' x='405' y='318'/>
+      <part name='Reye1' x='292' y='329'/>
+      <part name='Reye2' x='339' y='327'/>
+      <part name='un' x='384' y='423'/>
+    </box>
+    <box top='237' left='237' width='237' height='237'>
+      <part name='Leye1' x='448' y='310'/>
+      <part name='Leye2' x='405' y='318'/>
+      <part name='Reye1' x='292' y='329'/>
+      <part name='Reye2' x='339' y='327'/>
+      <part name='un' x='384' y='423'/>
+    </box>
+  </image>
+  <image file='images/face_001278.jpg'>
+    <box top='148' left='134' width='126' height='125'>
+      <part name='Leye1' x='226' y='192'/>
+      <part name='Leye2' x='206' y='193'/>
+      <part name='Reye1' x='158' y='193'/>
+      <part name='Reye2' x='176' y='193'/>
+      <part name='un' x='186' y='232'/>
+    </box>
+    <box top='137' left='137' width='137' height='137'>
+      <part name='Leye1' x='226' y='192'/>
+      <part name='Leye2' x='206' y='193'/>
+      <part name='Reye1' x='158' y='193'/>
+      <part name='Reye2' x='176' y='193'/>
+      <part name='un' x='186' y='232'/>
+    </box>
+  </image>
+  <image file='images/face_001605.jpg'>
+    <box top='234' left='214' width='180' height='180'>
+      <part name='Leye1' x='370' y='275'/>
+      <part name='Leye2' x='332' y='280'/>
+      <part name='Reye1' x='240' y='273'/>
+      <part name='Reye2' x='277' y='280'/>
+      <part name='un' x='300' y='349'/>
+    </box>
+    <box top='197' left='197' width='198' height='198'>
+      <part name='Leye1' x='370' y='275'/>
+      <part name='Leye2' x='332' y='280'/>
+      <part name='Reye1' x='240' y='273'/>
+      <part name='Reye2' x='277' y='280'/>
+      <part name='un' x='300' y='349'/>
+    </box>
+  </image>
+  <image file='images/face_001974.jpg'>
+    <box top='370' left='370' width='311' height='311'>
+      <part name='Leye1' x='627' y='501'/>
+      <part name='Leye2' x='575' y='504'/>
+      <part name='Reye1' x='448' y='504'/>
+      <part name='Reye2' x='497' y='507'/>
+      <part name='un' x='527' y='590'/>
+    </box>
+    <box top='339' left='339' width='340' height='340'>
+      <part name='Leye1' x='627' y='501'/>
+      <part name='Leye2' x='575' y='504'/>
+      <part name='Reye1' x='448' y='504'/>
+      <part name='Reye2' x='497' y='507'/>
+      <part name='un' x='527' y='590'/>
+    </box>
+  </image>
+  <image file='images/face_002218.jpg'>
+    <box top='370' left='370' width='311' height='311'>
+      <part name='Leye1' x='600' y='459'/>
+      <part name='Leye2' x='547' y='470'/>
+      <part name='Reye1' x='422' y='493'/>
+      <part name='Reye2' x='473' y='482'/>
+      <part name='un' x='516' y='587'/>
+    </box>
+    <box top='341' left='341' width='341' height='341'>
+      <part name='Leye1' x='600' y='459'/>
+      <part name='Leye2' x='547' y='470'/>
+      <part name='Reye1' x='422' y='493'/>
+      <part name='Reye2' x='473' y='482'/>
+      <part name='un' x='516' y='587'/>
+    </box>
+  </image>
+  <image file='images/face_002638.jpg'>
+    <box top='251' left='251' width='259' height='259'>
+      <part name='Leye1' x='449' y='324'/>
+      <part name='Leye2' x='406' y='321'/>
+      <part name='Reye1' x='298' y='306'/>
+      <part name='Reye2' x='343' y='313'/>
+      <part name='un' x='364' y='395'/>
+    </box>
+    <box top='237' left='237' width='237' height='237'>
+      <part name='Leye1' x='449' y='324'/>
+      <part name='Leye2' x='406' y='321'/>
+      <part name='Reye1' x='298' y='306'/>
+      <part name='Reye2' x='343' y='313'/>
+      <part name='un' x='364' y='395'/>
+    </box>
+  </image>
+  <image file='images/face_003477.jpg'>
+    <box top='134' left='114' width='180' height='180'>
+      <part name='Leye1' x='271' y='193'/>
+      <part name='Leye2' x='239' y='186'/>
+      <part name='Reye1' x='173' y='157'/>
+      <part name='Reye2' x='197' y='173'/>
+      <part name='un' x='192' y='239'/>
+    </box>
+    <box top='137' left='137' width='137' height='137'>
+      <part name='Leye1' x='271' y='193'/>
+      <part name='Leye2' x='239' y='186'/>
+      <part name='Reye1' x='173' y='157'/>
+      <part name='Reye2' x='197' y='173'/>
+      <part name='un' x='192' y='239'/>
+    </box>
+  </image>
+  <image file='images/face_003954.jpg'>
+    <box top='174' left='174' width='180' height='180'>
+      <part name='Leye1' x='320' y='247'/>
+      <part name='Leye2' x='299' y='239'/>
+      <part name='Reye1' x='236' y='219'/>
+      <part name='Reye2' x='257' y='227'/>
+      <part name='un' x='268' y='282'/>
+    </box>
+    <box top='163' left='163' width='164' height='164'>
+      <part name='Leye1' x='320' y='247'/>
+      <part name='Leye2' x='299' y='239'/>
+      <part name='Reye1' x='236' y='219'/>
+      <part name='Reye2' x='257' y='227'/>
+      <part name='un' x='268' y='282'/>
+    </box>
+  </image>
+  <image file='images/face_004004.jpg'>
+    <box top='145' left='145' width='150' height='150'>
+      <part name='Leye1' x='269' y='189'/>
+      <part name='Leye2' x='236' y='190'/>
+      <part name='Reye1' x='159' y='188'/>
+      <part name='Reye2' x='194' y='188'/>
+      <part name='un' x='217' y='235'/>
+    </box>
+    <box top='137' left='137' width='138' height='138'>
+      <part name='Leye1' x='269' y='189'/>
+      <part name='Leye2' x='236' y='190'/>
+      <part name='Reye1' x='159' y='188'/>
+      <part name='Reye2' x='194' y='188'/>
+      <part name='un' x='217' y='235'/>
+    </box>
+  </image>
+</images>
+</dataset>
